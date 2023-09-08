@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.list-container {
+  display: flex;
+  align-items: center;
+}
+.image {
+  height: 300px;
+  width: 250px;
+  margin: 10px;
+}
+.destination-name {
+  font-size: 16px;
+}
